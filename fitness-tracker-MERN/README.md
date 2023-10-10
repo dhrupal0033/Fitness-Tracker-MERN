@@ -44,9 +44,12 @@ npm run develop
 
 - Home Page <br>
   ![Screenshot](./client/src/assets/screenshots/f1.jpg)
+  
+- Register Page <br>
+  ![Screenshot](./client/src/assets/screenshots/f9.jpg)
 
 - Login Page <br>
-  ![Screenshot](./client/src/assets/screenshots/2.png)
+  ![Screenshot](./client/src/assets/screenshots/f8.jpg)
 
 - Exercise Page <br>
   ![Screenshot](./client/src/assets/screenshots/f2.jpg)
