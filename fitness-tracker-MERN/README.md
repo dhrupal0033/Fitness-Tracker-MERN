@@ -64,10 +64,10 @@ npm run develop
   ![Screenshot](./client/src/assets/screenshots/f5.jpg)
 
 - Single Cardio History <br>
-  ![Screenshot](./client/src/assets/screenshots/f6.jpg)
+  ![Screenshot](./client/src/assets/screenshots/f7.jpg)
 
 - Single Resistance History <br>
-  ![Screenshot](./client/src/assets/screenshots/f7.jpg)
+  ![Screenshot](./client/src/assets/screenshots/f6.jpg)
 
 ## Questions?
 
