@@ -43,28 +43,28 @@ npm run develop
 #### Example Screenshot
 
 - Home Page <br>
-  ![Screenshot](./client/src/assets/screenshots/1.png)
+  ![Screenshot](./client/src/assets/screenshots/f1.jpg)
 
 - Login Page <br>
   ![Screenshot](./client/src/assets/screenshots/2.png)
 
 - Exercise Page <br>
-  ![Screenshot](./client/src/assets/screenshots/3.png)
+  ![Screenshot](./client/src/assets/screenshots/f2.jpg)
 
 - Add Cardio <br>
-  ![Screenshot](./client/src/assets/screenshots/4.png)
+  ![Screenshot](./client/src/assets/screenshots/f3.jpg)
 
 - Add Resistance <br>
-  ![Screenshot](./client/src/assets/screenshots/5.png)
+  ![Screenshot](./client/src/assets/screenshots/f4.jpg)
 
 - History Page <br>
-  ![Screenshot](./client/src/assets/screenshots/6.png)
+  ![Screenshot](./client/src/assets/screenshots/f5.jpg)
 
 - Single Cardio History <br>
-  ![Screenshot](./client/src/assets/screenshots/7.png)
+  ![Screenshot](./client/src/assets/screenshots/f6.jpg)
 
 - Single Resistance History <br>
-  ![Screenshot](./client/src/assets/screenshots/8.png)
+  ![Screenshot](./client/src/assets/screenshots/f7.jpg)
 
 ## Questions?
 
