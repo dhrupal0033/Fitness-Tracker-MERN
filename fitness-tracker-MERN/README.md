@@ -8,7 +8,6 @@ A MERN-stack fitness tracker Web-application.
 - [Technology](#Technology)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Questions](#questions)
 
 ## Description:
 
@@ -68,10 +67,3 @@ npm run develop
 
 - Single Resistance History <br>
   ![Screenshot](./client/src/assets/screenshots/f6.jpg)
-
-## Questions?
-
-Please feel free to contact me if you need any further information:
-
-- [Email](dhrupalmavani@gmail.com)
-- [Github Profile](https://github.com/dhrupal0033)
